@@ -5,23 +5,6 @@
 
 > A simple tic tac toe game made with angular
 
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
-```
 
 ## Author
 
@@ -33,5 +16,3 @@ npm run test
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
